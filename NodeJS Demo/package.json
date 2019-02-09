@@ -1,0 +1,15 @@
+{
+  "name": "demonodejsproject1",
+  "version": "1.0.0",
+  "description": "Learning about NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tood",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
