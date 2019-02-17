@@ -1,0 +1,11 @@
+{
+  "name": "learningnodebook",
+  "version": "1.0.0",
+  "description": "Following the Node beginner book to learn javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tood",
+  "license": "ISC"
+}
